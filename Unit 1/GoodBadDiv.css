@@ -1,0 +1,26 @@
+#header {
+  border-width: medium;
+  background-color: #CFAFFF;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#background {
+  width: 1000px;
+  background-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+}
+#div1 {
+  border-radius: 10px;
+  border: 5px solid black;
+  background-color: #8DFFA0;
+  text-align: left;
+  width: 100px;
+  padding: 10px;
+  font-size: 20px;
+}
+#gooddivsection {
+  border:2px solid #1839DF;
+  background-color: #FFAFF8;
+}
